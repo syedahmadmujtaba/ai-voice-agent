@@ -1,0 +1,7 @@
+{
+  "name": "Bilingual Voice AI Agent",
+  "description": "A voice-powered AI agent that can converse in both English and Urdu, intelligently switching languages based on the user's input. Powered by the Gemini Live API.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
